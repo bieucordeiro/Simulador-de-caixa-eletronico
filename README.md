@@ -24,14 +24,15 @@ python caixa_eletronico.py
 Informe o valor do saque quando solicitado.
 
 📚 Exemplo de uso:
+
 ===================================
             BANCO CEV
 ===================================
-Qual valor você quer sacar? R$ 137
-Total de 2 cédulas de R$50.
-Total de 1 cédula de R$20.
-Total de 1 cédula de R$10.
-Total de 7 cédulas de R$1.
+Qual valor você quer sacar? R$137
+Total de 2 cédulas de R$50
+Total de 1 cédula de R$20
+Total de 1 cédula de R$10
+Total de 7 cédulas de R$1
 ======================================================
      Volte sempre ao banco CEV. Tenha um bom dia!
 ======================================================
